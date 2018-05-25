@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-	return "Yo, it's working!"
+	return "API básica em Flask deploiada no heroku!"
 
 if __name__ == "__main__":
 	app.run()
