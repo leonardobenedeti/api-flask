@@ -36,3 +36,5 @@ python app.py
 
 Com isso você pode verificar sua api rodando normalmente no endereço, http://localhost:5000
 
+### UPDATE
+Inclusão de uma lista de cards para ser interpretada em outros projetos. Não tomei muuuuito cuidado ao criar a lista pois não é o foco do repositório, me desculpem pythonzeiros. =D
